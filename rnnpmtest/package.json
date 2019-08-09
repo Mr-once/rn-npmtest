@@ -1,0 +1,44 @@
+{
+  "name": "zengzhiqiang",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "react": "16.8.6",
+    "react-native": "0.60.4"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/runtime": "^7.5.5",
+    "@react-native-community/eslint-config": "^0.0.5",
+    "babel-jest": "^24.8.0",
+    "eslint": "^6.1.0",
+    "jest": "^24.8.0",
+    "metro-react-native-babel-preset": "^0.55.0",
+    "react-test-renderer": "16.8.6"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "description": "react-native to npm test",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mr-once/rn-npmtest.git"
+  },
+  "keywords": [
+    "react-native",
+    "to",
+    "npm",
+    "test"
+  ],
+  "author": "zengzhiqiang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mr-once/rn-npmtest/issues"
+  },
+  "homepage": "https://github.com/Mr-once/rn-npmtest#readme"
+}
